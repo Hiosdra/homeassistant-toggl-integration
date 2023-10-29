@@ -1,5 +1,4 @@
 {
-    "domain": "Toogl",
     "name": "Toggl integration",
     "filename": "toggl.zip",
     "hide_default_branch": true,
