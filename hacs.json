@@ -1,9 +1,6 @@
 {
     "domain": "Toogl",
     "name": "Toggl integration",
-    "documentation": "https://github.com/Hiosdra/homeassistant-toggl-integration",
-    "issue_tracker": "https://github.com/Hiosdra/homeassistant-toggl-integration/issues",
-    "varsion": "0.1.0",
     "filename": "toggl.zip",
     "hide_default_branch": true,
     "homeassistant": "2023.8.0",
