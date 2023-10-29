@@ -32,6 +32,7 @@ class TogglApiClient:
             api_token: str,
             session: aiohttp.ClientSession,
     ) -> None:
+        """Initialize the TogglApiClient."""
         self._api_token = api_token
         self._session = session
 
