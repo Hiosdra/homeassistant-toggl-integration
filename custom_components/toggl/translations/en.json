@@ -4,7 +4,7 @@
             "user": {
                 "description": "You can get an API token here: https://track.toggl.com/profile",
                 "data": {
-                    "api-key": "api-key",
+                    "api-key": "api-key"
                 }
             }
         },
