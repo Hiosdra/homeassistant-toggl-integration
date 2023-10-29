@@ -1,0 +1,17 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "You can get an API token here: https://track.toggl.com/profile",
+                "data": {
+                    "api-key": "api-key",
+                }
+            }
+        },
+        "error": {
+            "auth": "Api-key is wrong.",
+            "connection": "Unable to connect to toggl.",
+            "unknown": "Unknown error occurred."
+        }
+    }
+}

@@ -1,8 +1,8 @@
 {
-  "domain": "integration_blueprint",
-  "name": "Integration blueprint",
+  "domain": "toggl",
+  "name": "Toggl integration",
   "codeowners": [
-    "@ludeeus"
+    "@Hiosdra"
   ],
   "config_flow": true,
   "documentation": "https://github.com/ludeeus/integration_blueprint",
